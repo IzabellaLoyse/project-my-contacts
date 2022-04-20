@@ -1,3 +1,7 @@
+# Controller
+
+- Serve para centralizar toda regra de negócio
+
 # Repository Pattern
 
 - **Data Source**: Fonte de Dados (Array, SQL, NoSQL, .json,API)
