@@ -37,6 +37,6 @@ Usando Yarn:
 yarn dev
 ```
 
-## ⚙️ Tenologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - NodeJS
